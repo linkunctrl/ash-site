@@ -33,3 +33,9 @@ ul {
 body {
     background-color: rgb(203, 216, 237);
 }
+
+h2 {
+    color: rgb(28, 61, 105);
+    margin-left: 80px;
+    margin-top: 10%;
+}
