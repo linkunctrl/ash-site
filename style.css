@@ -1,0 +1,35 @@
+h1 {
+    
+    color: rgb(80, 94, 99);
+    background-color: rgb(217, 223, 235);
+    font-family: "Courier New";
+}
+
+img {
+    border-radius: 20px;
+    display: block;
+    width: 250px;
+    height: auto;
+    float: right;
+    padding-right: 5px;
+    
+}
+
+#img1 {
+    border-radius: 20px;
+    align-items: center;
+    margin-top: 250px;
+    margin-right: 40px;
+    
+}
+
+ul {
+    font-size: large;
+    font-family: "Courier New";
+    font-weight: bold;
+    color: rgb(50, 74, 106);
+}
+
+body {
+    background-color: rgb(203, 216, 237);
+}
